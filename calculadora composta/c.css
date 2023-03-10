@@ -1,0 +1,95 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background: #43cea2;  
+background: -webkit-linear-gradient(to right, #185a9d, #43cea2); 
+background: linear-gradient(to right, #185a9d, #43cea2); 
+color:white;
+font-family: 'Nanum Myeongjo', serif;
+}
+
+.card{
+ display:inline-block;
+ align-items: center;
+ margin-left: 470px;
+ justify-content: center;
+ border-radius: 10px;
+
+ 
+}
+.h1{
+    color:white;
+    text-align: center;
+
+    
+}
+.result{
+    color: #355C7D;
+    display: flex;
+    left: 30px;
+    margin-left:30px;
+
+}
+
+.btnCalcular{
+    
+    cursor:pointer;
+    width: 90px;
+    height: 30px;
+   margin-left: 280px;
+   background-color: #5285b3 ;
+   color:white;
+}   
+input{
+    margin-left: 18px;
+    margin-right: 18px;
+    border-radius: 8px;
+    width: 245px;
+    height: 28px;
+    border:0.2px;
+    outline: none;
+}
+.fieldset{
+    color:white;
+    background-color: rgb(248, 244, 245);
+    max-width: 800px;
+    height: 300px;
+    border-radius:8px;
+    border:none;
+    
+}
+
+
+
+.card{
+ display:inline-block;
+ align-items: center;
+ margin-left: 200px;
+ justify-content: center;
+ border-radius: 10px;
+ 
+}
+.h1{
+    color:white;
+    text-align: center;
+}
+.button{
+    width: 60px;
+    height: 30px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    outline: none;
+    border:none;
+    margin-left: 540px;
+}
+input{
+    margin-left: 18px;
+    margin-right: 18px;
+    border-radius: 8px;
+    width: 245px;
+    height: 28px;
+    border:0.2px;
+    outline: none;
+}
